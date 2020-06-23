@@ -1,0 +1,6 @@
+PySide2
+PyPDF2
+python-docx
+gdown
+diff_match_patch
+
