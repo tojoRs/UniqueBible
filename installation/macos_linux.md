@@ -29,11 +29,7 @@ On mac, open "Applications > Utilities > Terminal.app"
 > cd UniqueBible-master<br>
 > python3 -m venv venv<br>
 > source venv/bin/activate<br>
-> pip3 install PySide2<br>
-> pip3 install PyPDF2<br>
-> pip3 install python-docx<br>
-> pip3 install gdown<br>
-> pip3 install diff-match-patch<br>
+> pip3 install -r requirements.txt<br>
 > pip3 install googletrans<br>
 
 # 5. Run the app
