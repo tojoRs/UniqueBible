@@ -6,4 +6,4 @@ unzip master.zip
 cd UniqueBible-master
 python3 -m venv venv
 source venv/bin/activate
-pip3 install -r requirements
+pip3 install -r requirements.txt
